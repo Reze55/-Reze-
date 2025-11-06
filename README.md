@@ -2,20 +2,23 @@
 
 ### 💻 Linguagens e Tecnologias
 
+### :computer: Linguagens e Tecnologias
+
 <img 
   align="left" 
-  alt="HTML" 
-  title="HTML" 
+  alt="C" 
+  title="C" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 />
 
 <img 
   align="left" 
-  alt="CSS" 
-  title="CSS" 
+  alt="Python" 
+  title="Python" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 />
