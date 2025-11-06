@@ -25,11 +25,8 @@
 
 <!-- Links -->
 [![Instagram](https://www.instagram.com/thlastgui)
-[![LinkedIn](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387)
+[![LinkedIn]https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387
 
-
-<!-- GithubStats -->
-![VariableBee GitHub stats]([https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387))
 
 
 <!-- GIF -->
