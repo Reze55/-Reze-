@@ -7,9 +7,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Guilherme! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying (Systems Analysis and Development) at UNIP <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -24,21 +24,13 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 <p align="left">
