@@ -1,31 +1,21 @@
 # -Reze-
 
-## Welcome to my GitHub profile 👋
+### 💻 Linguagens e Tecnologias
 
-<div align="center">
+<img 
+  align="left" 
+  alt="HTML" 
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
-### 💻 User's GitHub Stats
-
-| Stat | Value |
-|------|--------|
-| ⭐ **Total Stars Earned** | 15 |
-| 🕓 **Total Commits (last year)** | 202 |
-| 🔁 **Merged PRs Percentage** | 100.00% |
-| 🌍 **Contributed to (last year)** | 1 |
-
-### 📊 Overall Grade
-<div>
-  <img src="https://img.shields.io/badge/Grade-D%2B-yellow?style=for-the-badge&logo=github" alt="Grade D+"/>
-</div>
-
----
-
-### 🧠 Most Used Languages
-<div align="center">
-
-![C](https://img.shields.io/badge/C-40%25-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-</div>
+<img 
+  align="left" 
+  alt="CSS" 
+  title="CSS" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
