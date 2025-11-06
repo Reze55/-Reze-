@@ -8,8 +8,9 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Guilherme! A passionate Data Science student from Brazil.
+  
+  - 🌱 I’m currently studying (Systems Analysis and Development) at UNIP > ![d55edaf0-6066-4c59-87df-a7a8c8d76a30-profile_image-300x300](https://github.com/user-attachments/assets/fe30125f-9680-4016-bc73-a13140b9485b)
 
-  - 🌱 I’m currently studying (Systems Analysis and Development) at UNIP <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -18,18 +19,18 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Instagram](https://www.instagram.com/thlastgui)
+[![LinkedIn](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387)
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats]([https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387))
 
 
 <!-- GIF -->
